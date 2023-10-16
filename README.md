@@ -1,2 +1,2 @@
 # guessing_game_rust
-Learning rust
+A beginner Rust project. (PS: Learning Rust)
